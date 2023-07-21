@@ -1,0 +1,22 @@
+.wrapper {
+  margin: 0 auto;
+  width: 1000px;
+}
+
+.contentEditable {
+  position: relative;
+  border: 1px solid white;
+  border-radius: 10px;
+  padding: 20px;
+  height: 400px;
+}
+
+.placeholder {
+  top: 68px;
+  padding-left: 20px;
+  position: absolute;
+}
+p {
+  margin: 0;
+  padding: 0;
+}
